@@ -1,0 +1,111 @@
+{
+  "title": "World Countries Quiz",
+  "description": "Test your knowledge about different countries, their capitals, continents, and basic geography. This quiz covers world geography fundamentals!",
+  "timerSeconds": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "question": "What is the capital of France?",
+      "options": [
+        {
+          "label": "London",
+          "value": "london"
+        },
+        {
+          "label": "Berlin",
+          "value": "berlin"
+        },
+        {
+          "label": "Paris",
+          "value": "paris"
+        },
+        {
+          "label": "Rome",
+          "value": "rome"
+        }
+      ],
+      "correctAnswer": "paris"
+    },
+    {
+      "id": 2,
+      "type": "single", 
+      "question": "Which country has the largest population in the world?",
+      "options": [
+        {
+          "label": "India",
+          "value": "india"
+        },
+        {
+          "label": "China",
+          "value": "china"
+        },
+        {
+          "label": "United States",
+          "value": "united-states"
+        },
+        {
+          "label": "Russia",
+          "value": "russia"
+        }
+      ],
+      "correctAnswer": "china"
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Which countries are in Europe? (Select all that apply)",
+      "options": [
+        {
+          "label": "Germany",
+          "value": "germany"
+        },
+        {
+          "label": "Brazil",
+          "value": "brazil"
+        },
+        {
+          "label": "Italy",
+          "value": "italy"
+        },
+        {
+          "label": "Japan",
+          "value": "japan"
+        },
+        {
+          "label": "Spain",
+          "value": "spain"
+        }
+      ],
+      "correctAnswers": ["germany", "italy", "spain"]
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "Which countries use English as an official language? (Select all that apply)",
+      "options": [
+        {
+          "label": "United Kingdom",
+          "value": "united-kingdom"
+        },
+        {
+          "label": "France",
+          "value": "france"
+        },
+        {
+          "label": "Australia",
+          "value": "australia"
+        },
+        {
+          "label": "Germany",
+          "value": "germany"
+        },
+        {
+          "label": "Canada",
+          "value": "canada"
+        }
+      ],
+      "correctAnswers": ["united-kingdom", "australia", "canada"]
+    }
+  ]
+}
