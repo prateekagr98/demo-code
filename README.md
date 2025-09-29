@@ -17,8 +17,5 @@ Start the development server with HMR:
 npm run dev
 ```
 
-### Sample JSON
- - Tqo sample quizes are stored in sample data folder
-
 Your application will be available at `http://localhost:5173`.
 
